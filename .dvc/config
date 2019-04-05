@@ -1,0 +1,5 @@
+[core]
+analytics = false
+remote = dvcremote
+['remote "dvcremote"']
+url = /home/ClaimGeniusInc.com/aditya.rana/Desktop/Data/dvc_remote_data/
