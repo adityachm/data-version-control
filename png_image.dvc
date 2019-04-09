@@ -1,0 +1,8 @@
+md5: a6f420afebcc743a61e4b02cd95bddac
+outs:
+- cache: true
+  md5: 71dcd39cf89407d69d3b6ebc6a839c90.dir
+  metric: false
+  path: png_image
+  persist: false
+wdir: .
