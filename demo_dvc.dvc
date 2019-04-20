@@ -1,0 +1,8 @@
+md5: 11cc227ac5482e8e975f69461668443d
+outs:
+- cache: true
+  md5: 6ccb29998b93e66894631debfc1feafe.dir
+  metric: false
+  path: demo_dvc
+  persist: false
+wdir: .
